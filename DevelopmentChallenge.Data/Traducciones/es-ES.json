@@ -1,0 +1,19 @@
+{
+  "CABECERA": "<h1>Reporte de Formas</h1>",
+  "TOTAL": "TOTAL",
+  "FORMA": "forma",
+  "FORMA_PLURAL": "formas",
+  "PERIMETRO": "Perimetro",
+  "AREA": "Area",
+  "LISTAVACIA": "<h1>Lista vacía de formas!</h1>",
+  "CUADRADO": "Cuadrado",
+  "CUADRADO_PLURAL": "Cuadrados",
+  "TRIANGULO": "Triángulo",
+  "TRIANGULO_PLURAL": "Triángulos",
+  "CIRCULO": "Círculo",
+  "CIRCULO_PLURAL": "Círculos",
+  "TRAPECIO": "Trapecio",
+  "TRAPECIO_PLURAL": "Trapecios",
+  "RECTANGULO": "Rectangulo",
+  "RECTANGULO_PLURAL": "Rectangulos"
+}

@@ -1,0 +1,19 @@
+{
+  "CABECERA": "<h1>Rapport sur les formes</h1>",
+  "TOTAL": "TOTAL",
+  "FORMA": "forme",
+  "FORMA_PLURAL": "formes",
+  "PERIMETRO": "Périmètre",
+  "AREA": "Surface",
+  "LISTAVACIA": "<h1>Liste vide de formes!</h1>",
+  "CUADRADO": "Carré",
+  "CUADRADO_PLURAL": "Carrés",
+  "TRIANGULO": "Triangle",
+  "TRIANGULO_PLURAL": "Triangles",
+  "CIRCULO": "Cercles",
+  "CIRCULO_PLURAL": "Cercles",
+  "TRAPECIO": "Trapèze",
+  "TRAPECIO_PLURAL": "Trapèzes",
+  "RECTANGULO": "Rectangle",
+  "RECTANGULO_PLURAL": "Rectangles"
+}

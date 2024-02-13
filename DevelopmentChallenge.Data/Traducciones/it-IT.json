@@ -1,0 +1,19 @@
+{
+  "CABECERA": "<h1>Rapporto sui moduli</h1>",
+  "TOTAL": "TOTALE",
+  "FORMA": "forma",
+  "FORMA_PLURAL": "forme",
+  "PERIMETRO": "Perimetro",
+  "AREA": "Area",
+  "LISTAVACIA": "<h1>Elenco vuoto di forme!</h1>",
+  "CUADRADO": "Quadrato",
+  "CUADRADO_PLURAL": "Quadrati",
+  "TRIANGULO": "Triangolo",
+  "TRIANGULO_PLURAL": "Triangoli",
+  "CIRCULO": "Cerchio",
+  "CIRCULO_PLURAL": "Cerchi",
+  "TRAPECIO": "Trapezio",
+  "TRAPECIO_PLURAL": "Trapezio",
+  "RECTANGULO": "Rettangolo",
+  "RECTANGULO_PLURAL": "Rettangoli"
+}

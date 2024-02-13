@@ -1,0 +1,19 @@
+{
+  "CABECERA": "<h1>Shapes report</h1>",
+  "TOTAL": "TOTAL",
+  "FORMA": "shape",
+  "FORMA_PLURAL": "shapes",
+  "PERIMETRO": "Perimeter",
+  "AREA": "Area",
+  "LISTAVACIA": "<h1>Empty list of shapes!</h1>",
+  "CUADRADO": "Square",
+  "CUADRADO_PLURAL": "Squares",
+  "TRIANGULO": "Triangle",
+  "TRIANGULO_PLURAL": "Triangles",
+  "CIRCULO": "Circle",
+  "CIRCULO_PLURAL": "Circles",
+  "TRAPECIO": "Trapezoid",
+  "TRAPECIO_PLURAL": "Trapezoids",
+  "RECTANGULO": "Rectangle",
+  "RECTANGULO_PLURAL": "Rectangles"
+}
